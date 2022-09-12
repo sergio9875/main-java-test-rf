@@ -1,0 +1,1 @@
+com.sergey.testwork.vertx_app.RestVerticle$Order@582e907
